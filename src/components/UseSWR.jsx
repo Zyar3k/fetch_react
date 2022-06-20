@@ -1,7 +1,7 @@
 import React from "react";
 
 const UseSWR = () => {
-  return <div>UseSWR</div>;
+  return <section>UseSWR</section>;
 };
 
 export default UseSWR;
